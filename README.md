@@ -27,9 +27,9 @@ It is a platform to find the perfect partner to play your favorite game together
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53629713/229827010-1192b129-23ad-4364-8403-2475c32f4e61.png" alt="Next Level Week Esports Logo"/></p>
 <div style="display: flex; justify-content: space-evenly;">
-<img src="https://user-images.githubusercontent.com/53629713/229826966-a9b8b697-c3a7-4fb1-9cde-33c15f42bc4a.jpeg
-" alt="Next Level Week Esports Logo" height="500" padding-right="12"/>
-<img src="https://user-images.githubusercontent.com/53629713/229826955-f31d079e-8648-4fad-a717-e8fdacfbf70f.jpeg" alt="Next Level Week Esports Logo" height="500" padding-right="12"/>
+<img src="https://user-images.githubusercontent.com/53629713/229831807-33db1797-67c3-4342-8966-03c627386947.jpeg
+" alt="Next Level Week Esports Logo" height="500"/>
+<img src="https://user-images.githubusercontent.com/53629713/229826955-f31d079e-8648-4fad-a717-e8fdacfbf70f.jpeg" alt="Next Level Week Esports Logo" height="500"/>
 <img src="https://user-images.githubusercontent.com/53629713/229826852-bd0008dd-674b-4b2a-a857-f9d29e2e2dd6.jpeg" alt="Next Level Week Esports Logo"  height="500"/>
 </div>
 
